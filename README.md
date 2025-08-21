@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Ramo de Flores Neón Animado</title>
+  <title>Espero esto mejore tu día</title>
   <style>
     html, body { 
       height: 100%; 
